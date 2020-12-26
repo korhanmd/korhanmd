@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korhanmd" alt="korhanmd" /></a> </p>
 
-- 🔭 I’m currently working on [Robotics Software Engineering Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209)
+<p align="center">- 🔭 I’m currently working on [Robotics Software Engineering Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209)</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
