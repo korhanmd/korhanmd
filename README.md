@@ -28,8 +28,7 @@
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korhanmd&show_icons=true&theme=none&title_color=00c8c8&locale=en&layout=compact" alt="korhanmd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korhanmd&show_icons=true&theme=none&title_color=00c8c8&locale=en" alt="korhanmd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korhanmd&show_icons=true&theme=none&title_color=00c8c8&locale=en&layout=compact" alt="korhanmd" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=korhanmd&show_icons=true&theme=none&title_color=00c8c8&locale=en" alt="korhanmd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korhanmd&theme=none&title_color=00c8c8" alt="korhanmd" /></p>
