@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Korhan</h1>
-<h3 align="center">A Computer Engineer MSc. Passionate about AI and autonomous vehicles.</h3>
+<h3 align="center">A Computer Engineer M.Sc., passionate about AI and autonomous vehicles.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=korhanmd&label=Profile%20views&color=0e75b6&style=flat" alt="korhanmd" /> </p>
 
