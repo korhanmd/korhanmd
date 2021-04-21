@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korhanmd" alt="korhanmd" /></a> </p>
 
-- 🔭 I’m currently working on [Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) :robot:
+- 🔭 I’m currently working on [Jetson AI Specialist Certification](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
